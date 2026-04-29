@@ -15,7 +15,7 @@ CREATOR_ID = int(os.environ.get("CREATOR_ID", "8183010692"))
 LOG_CHANNEL_ID = int(os.environ.get("LOG_CHANNEL_ID", "-1003990132795"))
 
 
-SUDO_USERS = list(map(int, getenv("SUDO_USERS", "8183010692,7889313105").split()))
+SUDO_USERS = list(map(int, getenv("SUDO_USERS", "8183010692").split()))
 # ------------------------------------------------
 CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1003990132795"))
 # ------------------------------------------------
