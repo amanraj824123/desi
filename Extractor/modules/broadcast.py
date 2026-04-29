@@ -1,7 +1,7 @@
 import asyncio
 from config import MONGO_URL
 from pyrogram import filters
-fimportrom pyrogram.errors import FloodWait
+from pyrogram.errors import FloodWait
 from Extractor import app
 from Extractor.core.mongo.usersdb import get_users
 from motor.motor_asyncio import AsyncIOMotorClient
