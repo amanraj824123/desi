@@ -29,12 +29,12 @@
     },
     "BOT_TOKEN": {
       "description": "🤖 Enter Your Telegram Bot Token",
-      "value": "",
+      "value": "8958218005:AAF0akYDPpM1z3qLoDrJia5KgAvwZ6YE6DQ",
       "required": true
     },
     "CREATOR_ID": {
       "description": "🪪 Enter the Creator's ID (Optional)",
-      "value": "5680454765",
+      "value": "8532700793",
       "required": false
     },
     "CREATOR_NAME": {
