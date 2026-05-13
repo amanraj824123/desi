@@ -5,17 +5,17 @@ API_ID = int(os.environ.get("API_ID", "20369373"))
 # ------------------------------------------------
 API_HASH = os.environ.get("API_HASH", "0d53cc7f978163fed3263be5cbb20ab0")
 # ----------------D--------------------------------
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "8958218005:AAF0akYDPpM1z3qLoDrJia5KgAvwZ6YE6DQ")
 # -----------------A-------------------------------
-BOT_USERNAME = os.environ.get("masterextractor47bot")
+BOT_USERNAME = os.environ.get("Hicwbot")
 # ------------------X------------------------------
-OWNER_ID = int(os.environ.get("OWNER_ID", "8183010692"))
+OWNER_ID = int(os.environ.get("OWNER_ID", "8532700793"))
 # ------------------X------------------------------
-CREATOR_ID = int(os.environ.get("CREATOR_ID", "8183010692"))
+CREATOR_ID = int(os.environ.get("CREATOR_ID", "8532700793"))
 LOG_CHANNEL_ID = int(os.environ.get("LOG_CHANNEL_ID", "-1003990132795"))
 
 
-SUDO_USERS = list(map(int, getenv("SUDO_USERS", "8183010692").split()))
+SUDO_USERS = list(map(int, getenv("SUDO_USERS", "8532700793").split()))
 # ------------------------------------------------
 CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1003990132795"))
 # ------------------------------------------------
